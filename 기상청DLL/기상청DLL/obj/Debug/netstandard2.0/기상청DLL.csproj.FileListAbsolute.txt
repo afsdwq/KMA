@@ -1,0 +1,20 @@
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.deps.json
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.dll
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.pdb
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.csproj.AssemblyReference.cache
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.AssemblyInfoInputs.cache
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.AssemblyInfo.cs
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.csproj.CoreCompileInputs.cache
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.dll
+C:\Users\swoom\source\repos\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.pdb
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.deps.json
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.dll
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\bin\Debug\netstandard2.0\기상청DLL.pdb
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.csproj.AssemblyReference.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.AssemblyInfoInputs.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.AssemblyInfo.cs
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.csproj.CoreCompileInputs.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.dll
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\obj\Debug\netstandard2.0\기상청DLL.pdb

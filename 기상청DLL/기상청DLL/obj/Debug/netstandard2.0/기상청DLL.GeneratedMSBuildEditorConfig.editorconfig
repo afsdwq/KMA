@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = 기상청DLL
+build_property.ProjectDir = E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청DLL\기상청DLL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

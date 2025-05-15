@@ -1,0 +1,34 @@
+C:\Users\swoom\source\repos\기상청API\기상청API\bin\Debug\기상청API.exe.config
+C:\Users\swoom\source\repos\기상청API\기상청API\bin\Debug\기상청API.exe
+C:\Users\swoom\source\repos\기상청API\기상청API\bin\Debug\기상청API.pdb
+C:\Users\swoom\source\repos\기상청API\기상청API\bin\Debug\기상청DLL.dll
+C:\Users\swoom\source\repos\기상청API\기상청API\bin\Debug\기상청DLL.pdb
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.csproj.AssemblyReference.cache
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\MainWindow.baml
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\MainWindow.g.cs
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\App.g.cs
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API_MarkupCompile.cache
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.g.resources
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.Properties.Resources.resources
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.csproj.GenerateResource.cache
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.csproj.CoreCompileInputs.cache
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.csproj.Up2Date
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.exe
+C:\Users\swoom\source\repos\기상청API\기상청API\obj\Debug\기상청API.pdb
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\bin\Debug\기상청API.exe.config
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\bin\Debug\기상청API.exe
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\bin\Debug\기상청API.pdb
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\bin\Debug\기상청DLL.dll
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\bin\Debug\기상청DLL.pdb
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.csproj.AssemblyReference.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\MainWindow.baml
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\MainWindow.g.cs
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\App.g.cs
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API_MarkupCompile.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.g.resources
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.Properties.Resources.resources
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.csproj.GenerateResource.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.csproj.CoreCompileInputs.cache
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.csproj.Up2Date
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.exe
+E:\회사 프로젝트\기상청DLL파일(x,y좌표 입력)\기상청API\기상청API\obj\Debug\기상청API.pdb
