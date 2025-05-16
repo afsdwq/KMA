@@ -20,7 +20,6 @@ namespace 기상청DLL
             public string REH { get; set; }           // 습도
             public string PTY { get; set; }           // 강수 형태
             public string Img { get; set; }           // 날씨 아이콘 이미지 경로
-
             public string fcstTimeRaw { get; set; }   // 원본 시간 문자열 (예: "1300")
             public string RegionName { get; set; }    // 좌표에 해당하는 지역명
         }

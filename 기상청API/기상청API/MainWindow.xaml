@@ -41,18 +41,15 @@
                         <TextBlock Name="TempText" FontSize="16" HorizontalAlignment="Center"/>
                     </StackPanel>
                     <StackPanel Margin="10">
-                        <TextBlock Text="하늘 상태" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"/>
-                        <TextBlock Name="SkyText" FontSize="16" HorizontalAlignment="Center"/>
-                    </StackPanel>
-                    <StackPanel Margin="10">
-                        <TextBlock Text="강수 형태" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"/>
-                        <TextBlock Name="PtyText" FontSize="16" HorizontalAlignment="Center"/>
+                        <TextBlock Text="날씨 상태" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"/>
+                        <TextBlock Name="ConditionText" FontSize="16" HorizontalAlignment="Center"/>
                     </StackPanel>
                     <StackPanel Margin="10">
                         <TextBlock Text="습도" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"/>
                         <TextBlock Name="HumidityText" FontSize="16" HorizontalAlignment="Center"/>
                     </StackPanel>
                 </StackPanel>
+
                 <Image Name="WeatherImage" Width="100" Height="100" HorizontalAlignment="Center" Margin="0,10,0,0"/>
             </StackPanel>
         </Border>

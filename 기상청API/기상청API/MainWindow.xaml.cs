@@ -67,8 +67,7 @@ namespace 기상날씨앱
                 RegionNameText.Text = data.RegionName;
                 TimeText.Text = $"{data.fcstTime} 기준 예보";
                 TempText.Text = string.IsNullOrEmpty(data.T1H) ? "-" : data.T1H;
-                SkyText.Text = string.IsNullOrEmpty(data.SKY) ? "-" : data.SKY;
-                PtyText.Text = string.IsNullOrEmpty(data.PTY) ? "-" : data.PTY;
+                ConditionText.Text = string.IsNullOrEmpty(data.PTY) ? "-" : data.PTY; // PTY가 "없음"이면 SKY가 들어감
                 HumidityText.Text = string.IsNullOrEmpty(data.REH) ? "-" : data.REH;
 
                 if (!string.IsNullOrEmpty(data.Img))
